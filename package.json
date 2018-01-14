@@ -10,5 +10,8 @@
     "cryptomancy"
   ],
   "author": "ansuz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsbn": "^1.1.0"
+  }
 }
