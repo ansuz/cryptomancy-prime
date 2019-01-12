@@ -1,6 +1,6 @@
 {
   "name": "cryptomancy-prime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prime number utilities for cryptomancy",
   "main": "index.js",
   "scripts": {
