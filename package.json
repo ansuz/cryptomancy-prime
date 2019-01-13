@@ -1,6 +1,6 @@
 {
   "name": "cryptomancy-prime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "prime number utilities for cryptomancy",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "jsbn": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansuz/cryptomancy-prime.git"
   }
 }
